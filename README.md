@@ -42,7 +42,7 @@ It allows users to add, manage, and track tasks in a clean and user-friendly int
 project-folder/
 │
 ├── app.R       # Main Shiny application file
-└── README.md   # Project documentation
+└──
 ```
 
 ---
@@ -56,15 +56,6 @@ project-folder/
 ```r
 shiny::runApp()
 ```
-
-👉 To open in your web browser instead of the RStudio viewer:
-
-```r
-shiny::runApp(launch.browser = TRUE)
-```
-
----
-
 ## 🧠 How It Works
 
 * Tasks are stored in a **reactive data frame**
