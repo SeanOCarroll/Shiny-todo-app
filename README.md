@@ -1,6 +1,10 @@
 # 📝 Shiny To-Do List App
 Author: Seán O'Carroll
+
+
 Contact Email: sean.ocarroll.2025@mumail.ie
+
+
 Linkden: www.linkedin.com/in/seán-o-carroll-88babb327
 ## Website:
 
